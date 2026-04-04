@@ -2,8 +2,6 @@
 
 **RJHCole/RJHCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on becoming a Wikipedia contributor / editor
 - 🌱 I’m currently learning **Confluence, Jira, SQL, GitHub, QGis**
 - 👯 I’m looking to collaborate on open source GIS projects (such as **OpenStreetView**) or any others that require UX, documentation or non-coding skills
