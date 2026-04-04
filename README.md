@@ -2,6 +2,7 @@
 
 **RJHCole/RJHCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi, I'm **Rupert**, a Product Manager / Head of Product
 - 🔭 I’m currently working on becoming a Wikipedia contributor / editor
 - 🌱 I’m currently learning **Confluence, Jira, SQL, GitHub, QGis**
   - Learning GitHib includes: markdown, Git, GitHub Pages
