@@ -1,6 +1,6 @@
 # About Me 👋
 
-**RJHCole/RJHCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **RJHCole/RJHCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, I'm **Rupert**, a Product Manager / Head of Product.
 - 🔭 I’m currently working on becoming a Wikipedia contributor / editor
